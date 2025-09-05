@@ -1,5 +1,4 @@
 // src/App.tsx
-import { useMemo, useState } from 'react';
 import { CITIES, CURRENCY_SYMBOL, Currency } from './data';
 import { estimateAnnualCost, formatMoney, Housing } from './estimator';
 
