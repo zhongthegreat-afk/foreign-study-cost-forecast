@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m "init: scaffold vite react-ts"
+git branch -M main
+git remote add origin https://github.com/<你的GitHub名>/life-cost-planner.git
+git push -u origin main
