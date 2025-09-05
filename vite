@@ -1,0 +1,4 @@
+npm create vite@latest life-cost-planner -- --template react-ts
+cd life-cost-planner
+npm install
+npm run dev
